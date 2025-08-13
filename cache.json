@@ -3,14 +3,14 @@
         "start": 1753281000,
         "end": 1753290000,
         "title": "Gravitation - L2",
-        "status": "waiting",
+        "status": "completed",
         "topic_id": "35850"
     },
     "2251913": {
         "start": 1755095400,
         "end": 1755104400,
         "title": "Atoms and Molecules L4",
-        "status": "waiting",
+        "status": "live",
         "topic_id": "433533"
     }
 }
