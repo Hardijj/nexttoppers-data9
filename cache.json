@@ -5,5 +5,19 @@
         "title": "Nazism and the rise of hitler L2",
         "status": "completed",
         "topic_id": "35849"
+    },
+    "2258994": {
+        "start": 1755689400,
+        "end": 1755698400,
+        "title": "Nazism and the rise of hitler L3",
+        "status": "waiting",
+        "topic_id": "35849"
+    },
+    "2258998": {
+        "start": 1755700200,
+        "end": 1755714300,
+        "title": "Case Study Question",
+        "status": "waiting",
+        "topic_id": "433886"
     }
 }
