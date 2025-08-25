@@ -1,29 +1,8 @@
 {
-    "2260275": {
-        "start": 1755786600,
-        "end": 1755795600,
-        "title": "Quadrilaterals L6",
-        "status": "completed",
-        "topic_id": "35848"
-    },
-    "2261542": {
-        "start": 1755862200,
-        "end": 1755871200,
-        "title": "Circles - L1",
-        "status": "completed",
-        "topic_id": "35848"
-    },
-    "2263855": {
-        "start": 1756122300,
-        "end": 1756130400,
-        "title": "Work, Power, and Energy L1",
-        "status": "live",
-        "topic_id": "35850"
-    },
     "2263860": {
         "start": 1756132200,
         "end": 1756141200,
-        "title": "Nazism and The Rise of Hitler L5 & Doubt Solving",
+        "title": "Nazism and The Rise of Hitler L5",
         "status": "waiting",
         "topic_id": "35849"
     }
