@@ -5,5 +5,19 @@
         "title": "Nazism and The Rise of Hitler L5",
         "status": "completed",
         "topic_id": "35849"
+    },
+    "2265004": {
+        "start": 1756207800,
+        "end": 1756216800,
+        "title": "Work, Power, and Energy L2",
+        "status": "waiting",
+        "topic_id": "35850"
+    },
+    "2265014": {
+        "start": 1756218600,
+        "end": 1756227600,
+        "title": "Nazism and the rise of hitler L6",
+        "status": "waiting",
+        "topic_id": "35849"
     }
 }
