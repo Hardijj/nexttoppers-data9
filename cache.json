@@ -26,5 +26,19 @@
         "title": "Work, Power, and Energy L3",
         "status": "completed",
         "topic_id": "35850"
+    },
+    "2267297": {
+        "start": 1756380600,
+        "end": 1756389600,
+        "title": "Nazism and the rise of hitler L8",
+        "status": "waiting",
+        "topic_id": "35849"
+    },
+    "2267301": {
+        "start": 1756391400,
+        "end": 1756400400,
+        "title": "Circles - L3",
+        "status": "waiting",
+        "topic_id": "35848"
     }
 }
